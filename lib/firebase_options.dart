@@ -53,11 +53,11 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAgvk4s4zkjaI1HeRnL-Pc9l3Umijic1l4',
-    appId: '1:85139674620:android:00c3438b6c2cdaa53bce79',
-    messagingSenderId: '85139674620',
-    projectId: 'tugas-video-upci',
-    databaseURL: 'https://tugas-video-upci-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'tugas-video-upci.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    databaseURL: '',
+    storageBucket: '',
   );
 }
